@@ -1,0 +1,5 @@
+0 crear entorno virtual python -m venv venv
+1 activar entorno virtual venv\Scripts\activate
+2 instalar dependencias  pip install psycopg2-binary pandas sqlalchemy - pip install -r requerimientos.txt
+3 actualizar pip de python python.exe -m pip install --upgrade pip
+
